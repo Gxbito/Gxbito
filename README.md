@@ -1,16 +1,27 @@
-## Hi there 👋
+# Gabriel Martinez
 
-<!--
-**Gxbito/Gxbito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer especializado en React, Next.js y TypeScript.
 
-Here are some ideas to get you started:
+Construyo interfaces web responsivas, dashboards y aplicaciones
+a partir de diseños en Figma, con foco en accesibilidad,
+performance y código reutilizable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack principal
+
+React · Next.js · TypeScript · Tailwind CSS · Material UI
+REST APIs · Firebase · Git · Figma
+
+## Proyectos destacados
+
+- Commerce Storefront — e-commerce con Redux Toolkit y TypeScript
+- Analytics Dashboard — dashboard en Next.js con testing
+- React Design System — componentes documentados con Storybook
+
+## Experiencia
+
+Actualmente trabajo como Frontend Developer en CC Creative,
+desarrollando productos web y mobile para clientes.
+
+## Contacto
+
+Portfolio · LinkedIn · Email
