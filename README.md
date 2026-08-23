@@ -19,7 +19,7 @@ REST APIs · Firebase · Git · Figma
 
 ## Experiencia
 
-Actualmente trabajo como Frontend Developer en CC Creative,
+Actualmente trabajo como Frontend Developer en CC Creative Design,
 desarrollando productos web y mobile para clientes.
 
 ## Contacto
